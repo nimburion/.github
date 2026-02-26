@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://https://nimburion.github.io/">Site</a>
+  <a href="https://nimburion.github.io/">Site</a>
   ·
-  <a href="https://https://nimburion.github.io//wiki">Wiki</a>
+  <a href="https://nimburion.github.io/wiki">Wiki</a>
   ·
   <a href="https://github.com/nimburion?tab=repositories">Repositories</a>
 </p>
@@ -31,5 +31,5 @@ It combines components, conventions, and tooling to help teams design cloud-nati
 ## Core Projects
 - [Nimburion](https://github.com/nimburion/nimburion): Core ecosystem and framework for disciplined Go microservice development.
 - [API Gateway](https://github.com/nimburion/apigateway): Edge routing, policy enforcement, authentication/authorization checks, rate limiting, and traffic orchestration.
-- [Bootstrapper](https://github.com/nimburion/bootstrapper): Service initialization and default setup conventions to reduce friction and improve consistency.
+- [nimbctl](https://github.com/nimburion/nimbctl): CLI for creating and running a local platform workspace based on nimburion ecosystem.
 
